@@ -2,37 +2,37 @@
   "1": {
     "class": "f",
     "link": "https://www.facebook.com/sonakshsaraswat",
-    "imgScr": "../../images/facebook.png",
+    "imgScr": "images/facebook.png",
     "alt": "FB"
   },
   "2": {
     "class": "t",
     "link": "https://twitter.com/sonakshsaraswat",
-    "imgScr": "../../images/twitter.png",
+    "imgScr": "images/twitter.png",
     "alt": "Twitter"
   },
   "3": {
     "class": "ig",
     "link": "https://www.instagram.com/sonaksh_s",
-    "imgScr": "../../images/instagram.png",
+    "imgScr": "images/instagram.png",
     "alt": "`IG`"
   },
   "4": {
     "class": "sc",
     "link": "https://www.snapchat.com/add/sonaksh",
-    "imgScr": "../../images/snapchat.png",
+    "imgScr": "images/snapchat.png",
     "alt": "SC"
   },
   "5": {
     "class": "in",
     "link": "https://www.linkedin.com/in/sonaksh",
-    "imgScr": "../../images/in.png",
+    "imgScr": "images/in.png",
     "alt": "IN"
   },
   "6": {
     "class": "yt",
     "link": "https://www.youtube.com/channel/UClQpgvEpUUNlS7qQ0axK2RA",
-    "imgScr": "../../images/youtube.png",
+    "imgScr": "images/youtube.png",
     "alt": "YT"
   }
 }
