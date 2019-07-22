@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ticket.com/static/css/main.a2f107aa.chunk.css",
+    "main.js": "/ticket.com/static/js/main.f0ce9a6b.chunk.js",
+    "main.js.map": "/ticket.com/static/js/main.f0ce9a6b.chunk.js.map",
+    "runtime~main.js": "/ticket.com/static/js/runtime~main.dd46a7a6.js",
+    "runtime~main.js.map": "/ticket.com/static/js/runtime~main.dd46a7a6.js.map",
+    "static/js/2.b3a32391.chunk.js": "/ticket.com/static/js/2.b3a32391.chunk.js",
+    "static/js/2.b3a32391.chunk.js.map": "/ticket.com/static/js/2.b3a32391.chunk.js.map",
+    "index.html": "/ticket.com/index.html",
+    "precache-manifest.834b1300ea3b065e113bb56533019a61.js": "/ticket.com/precache-manifest.834b1300ea3b065e113bb56533019a61.js",
+    "service-worker.js": "/ticket.com/service-worker.js",
+    "static/css/main.a2f107aa.chunk.css.map": "/ticket.com/static/css/main.a2f107aa.chunk.css.map",
+    "static/media/bootstrap.css": "/ticket.com/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
