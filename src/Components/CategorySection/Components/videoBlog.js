@@ -9,7 +9,7 @@ class VideoBlog extends Component {
   componentDidMount() {
     $(document).ready(function() {
       $("#dvYoutube").html(
-        "<iframe style='width: 100%; height: 400px' src='https://www.youtube.com/embed/IyucJZev9wM' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+        "<iframe style='width: 100%; height: 400px' src='https://www.youtube.com/embed/jrfKzj3qaf8?controls=0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
       );
     });
   }
@@ -20,7 +20,7 @@ class VideoBlog extends Component {
           <div id="dvYoutube" />
         </div>
         <div className="col-sm-6 cat-box">
-          <a className="block-link">
+          <a href="/" className="block-link">
             <div className="cat-txt">
               <h3>Ticket.com Blog</h3>
             </div>

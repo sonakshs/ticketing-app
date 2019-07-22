@@ -2,7 +2,7 @@
   "name": "ticketing-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sonakshs.github.io/ticket.com",
+  "homepage": "http://sonakshs.github.io/ticketing-app",
   "dependencies": {
     "jquery": "^3.4.1",
     "json-loader": "^0.5.7",
