@@ -12,31 +12,31 @@ class Countries extends Component {
         <ul>
           <li>
             <a href="/" target="_blank" rel="noopener noreferrer">
-              <img src="../../images/CountriesFlag/aus.png" alt="" />
+              <img src="images/CountriesFlag/aus.png" alt="" />
               Australia
             </a>
           </li>
           <li>
             <a href="/" target="_blank" rel="noopener noreferrer">
-              <img src="../../images/CountriesFlag/ind.png" alt="" />
+              <img src="images/CountriesFlag/ind.png" alt="" />
               India
             </a>
           </li>
           <li>
             <a href="/" target="_blank" rel="noopener noreferrer">
-              <img src="../../images/CountriesFlag/ireland.png" alt="" />
+              <img src="images/CountriesFlag/ireland.png" alt="" />
               Ireland
             </a>
           </li>
           <li>
             <a href="/" target="_blank" rel="noopener noreferrer">
-              <img src="../../images/CountriesFlag/uae.png" alt="" />
+              <img src="images/CountriesFlag/uae.png" alt="" />
               United Arab Emirates
             </a>
           </li>
           <li>
             <a href="/" target="_blank" rel="noopener noreferrer">
-              <img src="../../images/CountriesFlag/usa.png" alt="" />
+              <img src="images/CountriesFlag/usa.png" alt="" />
               United States
             </a>
           </li>
