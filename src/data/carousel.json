@@ -1,0 +1,37 @@
+{
+    "1":{
+        "dataSlide": 0,
+        "id": "bgvid0",
+        "src": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "poster": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "videoSrc": "http://content.kyazoonga.com/videos/video9.mp4"
+    },
+    "2":{
+        "dataSlide": 1,
+        "id": "bgvid1",
+        "src": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "poster": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "videoSrc": "http://content.kyazoonga.com/videos/video1.mp4"
+    },
+    "3":{
+        "dataSlide": 2,
+        "id": "bgvid2",
+        "src": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "poster": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "videoSrc": "http://content.kyazoonga.com/videos/video2.mp4"
+    },
+    "4":{
+        "dataSlide": 3,
+        "id": "bgvid3",
+        "src": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "poster": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "videoSrc": "http://content.kyazoonga.com/videos/video3.mp4"
+    },
+    "5":{
+        "dataSlide": 4,
+        "id": "bgvid4",
+        "src": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "poster": "http://content.kyazoonga.com/Footer/slider-1.jpg",
+        "videoSrc": "http://content.kyazoonga.com/videos/video8.mp4"
+    }
+}

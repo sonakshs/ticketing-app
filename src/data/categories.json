@@ -1,0 +1,26 @@
+{
+    "1":{
+        "name":"Concerts",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/concerts-cat1.jpg"
+    },
+    "2":{
+        "name":"Cricket",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/cricket-cat1.jpg"
+    },
+    "3":{
+        "name":"Theatre & Arts",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/theatre-cat.jpg"
+    },
+    "4":{
+        "name":"Amusement Parks",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/amusementparks-cat.jpg"
+    },
+    "5":{
+        "name":"Sports",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/sports-cat.jpg"
+    },
+    "6":{
+        "name":"Restaurants",
+        "imgSrc":"https://static2.kyazoonga.com/Images/kzconsumer/top-categories/restaurants-cat.jpg"
+    }
+}

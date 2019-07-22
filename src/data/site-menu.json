@@ -1,0 +1,34 @@
+ {   
+    "1":{
+        "className": "",
+        "name": "Concerts"
+    },
+    "2":{
+        "className": "blue-bg",
+        "name": "Cricket"
+    },
+    "3":{
+        "className": "orange-bg",
+        "name": "Events"
+    },
+    "4":{
+        "className": "green-bg",
+        "name": "Sports"
+    },
+    "5":{
+        "className": "pink-lt-bg",
+        "name": "Amusement Parks"
+    },
+    "6":{
+        "className": "purple-bg",
+        "name": "Restaurants"
+    },
+    "7":{
+        "className": "yellow-bg",
+        "name": "Theatre"
+    },
+    "8":{
+        "className": "",
+        "name": "Parties"
+    }
+}

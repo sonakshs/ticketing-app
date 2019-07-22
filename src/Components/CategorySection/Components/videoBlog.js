@@ -1,0 +1,34 @@
+import React, { Component } from 'react';
+import $ from 'jquery';
+
+class VideoBlog extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {  }
+    }
+    componentDidMount(){
+        $(document).ready(function() {
+            $("#dvYoutube").html("<iframe style='width: 100%; height: 400px' src='https://www.youtube.com/embed/IyucJZev9wM' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>");
+        });
+    }
+    render() { 
+        return (  
+            <div className="row">
+                <div className="col-sm-6 cat-box">
+                    <div id="dvYoutube">
+                    </div>
+                </div>
+                <div className="col-sm-6 cat-box">
+                    <a className="block-link">
+                        <div className="cat-txt">
+                        <h3>Kyazoonga Blog</h3>
+                        </div>
+                        <img src="https://static2.kyazoonga.com/Images/kzconsumer/kz-blog.jpg" alt="" className="img-full-width" />
+                    </a>
+                </div>
+            </div>
+        );
+    }
+}
+ 
+export default VideoBlog;
