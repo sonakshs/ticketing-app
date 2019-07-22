@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ticketing-app/static/css/main.ce2378d2.chunk.css",
-    "main.js": "/ticketing-app/static/js/main.cc6d72be.chunk.js",
-    "main.js.map": "/ticketing-app/static/js/main.cc6d72be.chunk.js.map",
+    "main.js": "/ticketing-app/static/js/main.23f354d1.chunk.js",
+    "main.js.map": "/ticketing-app/static/js/main.23f354d1.chunk.js.map",
     "runtime~main.js": "/ticketing-app/static/js/runtime~main.57aef9cd.js",
     "runtime~main.js.map": "/ticketing-app/static/js/runtime~main.57aef9cd.js.map",
     "static/js/2.b3a32391.chunk.js": "/ticketing-app/static/js/2.b3a32391.chunk.js",
     "static/js/2.b3a32391.chunk.js.map": "/ticketing-app/static/js/2.b3a32391.chunk.js.map",
     "index.html": "/ticketing-app/index.html",
-    "precache-manifest.d1367902f8311e57a100c9b239cb0046.js": "/ticketing-app/precache-manifest.d1367902f8311e57a100c9b239cb0046.js",
+    "precache-manifest.ad99ab79718626671c7e1fcd01153038.js": "/ticketing-app/precache-manifest.ad99ab79718626671c7e1fcd01153038.js",
     "service-worker.js": "/ticketing-app/service-worker.js",
     "static/css/main.ce2378d2.chunk.css.map": "/ticketing-app/static/css/main.ce2378d2.chunk.css.map"
   }
