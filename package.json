@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://sonakshs.github.io/ticketing-app",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "json-loader": "^0.5.7",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
